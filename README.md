@@ -38,7 +38,7 @@ All four apps share the same backend, auth, database, and design system — but 
 | Auth                | JWT + refresh tokens + session timeout wrapper                             |
 | Payments            | Stripe (Checkout, Payment Intents, Webhooks)                               |
 | Real-time (ready)   | Django Channels (WebSocket layer)                                          |
-| Hosting (planned)   | Vercel (frontend) · Railway/Render (backend) · Supabase/AWS RDS (DB)       |
+| Hosting (planned)   | hostinger (frontend) · sperate cloude hosting (backend) · Supabase/AWS RDS (DB)       |
 | Analytics           | PostHog (self-hosted ready)                                                |
 | Error Tracking      | Sentry                                                                     |
 
